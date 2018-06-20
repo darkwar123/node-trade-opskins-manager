@@ -1,0 +1,44 @@
+{
+  "name": "trade-opskins-manager",
+  "version": "1.0.0",
+  "description": "Trade Opskins Manager for Node.js",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/darkwar123/node-trade-opskins-manager"
+  },
+  "keywords": [
+    "opskins",
+    "trade",
+    "api",
+    "manager",
+    "offers",
+    "tradeoffers",
+    "trading"
+  ],
+  "bugs": {
+    "url": "https://github.com/darkwar123/node-trade-opskins-manager/issues"
+  },
+  "homepage": "https://github.com/darkwar123/node-trade-opskins-manager",
+  "author": "darkwar123",
+  "license": "MIT",
+  "dependencies": {
+    "appdirectory": "^0.1.0",
+    "axios": "^0.18.0",
+    "debug": "^2.5.2",
+    "events": "^3.0.0",
+    "md5": "^2.2.1",
+    "node-2fa": "^1.1.2",
+    "path": "^0.12.7",
+    "util": "^0.11.0"
+  },
+  "engines": {
+    "node": ">=6.0.0"
+  }
+}
