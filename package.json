@@ -1,7 +1,7 @@
 {
   "name": "trade-opskins-manager",
   "version": "1.0.0",
-  "description": "Trade Opskins Manager for Node.js",
+  "description": "Trade Opskins Manager for Node.js (ExpressTrade manager)",
   "main": "index.js",
   "directories": {
     "lib": "lib"
@@ -14,6 +14,7 @@
     "url": "https://github.com/darkwar123/node-trade-opskins-manager"
   },
   "keywords": [
+    "expresstrade",
     "opskins",
     "trade",
     "api",
