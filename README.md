@@ -1,7 +1,7 @@
 # Trade Opskins Manager for Node.js (ExpressTrade manager)
 [![npm version](https://img.shields.io/npm/v/trade-opskins-manager.svg)](https://npmjs.com/package/trade-opskins-manager)
 [![npm downloads](https://img.shields.io/npm/dm/trade-opskins-manager.svg)](http://npm-stat.com/charts.html?package=trade-opskins-manager)
-[![license](https://img.shields.io/npm/l/steam-tradeoffer-manager.svg)](https://github.com/darkwar123/node-trade-opskins-manager/blob/master/LICENSE)
+[![license](https://img.shields.io/npm/l/trade-opskins-manager.svg)](https://github.com/darkwar123/node-trade-opskins-manager/blob/master/LICENSE)
 
 This module is designed to be a completely self-contained manager for
 [ExpressTrade](https://trade.opskins.com/).
